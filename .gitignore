@@ -1,0 +1,10 @@
+## Java
+# Compiled class file
+bin/
+*.class
+# Log file
+*.log
+# virtual machine crash logs
+hs_err_pid*
+# Derby
+simpleDb/

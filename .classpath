@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/javaws/derby/derby.jar"/>
+	<classpathentry kind="lib" path="D:/javaws/derby/derbyclient.jar"/>
+	<classpathentry kind="lib" path="D:/javaws/eclipseLink/eclipselink.jar"/>
+	<classpathentry kind="lib" path="D:/javaws/eclipseLink/javax.persistence.source_2.2.1.v201807122140.jar"/>
+	<classpathentry kind="lib" path="D:/javaws/eclipseLink/javax.persistence_2.2.1.v201807122140.jar"/>
+	<classpathentry kind="lib" path="D:/javaws/Apache Commons/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
